@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/obj/stickman.OBJ</file>
+        <file>assets/obj/angel.obj</file>
+        <file>assets/obj/cube.obj</file>
+        <file>assets/obj/dress3.obj</file>
+        <file>assets/obj/dress3-iso.obj</file>
+        <file>assets/obj/ganesha.obj</file>
+        <file>assets/obj/pants.obj</file>
+        <file>assets/obj/pen.obj</file>
+        <file>assets/obj/robe.obj</file>
+        <file>assets/obj/robe-iso.obj</file>
+        <file>assets/obj/test.obj</file>
+        <file>assets/obj/toothbrush.obj</file>
+    </qresource>
+</RCC>

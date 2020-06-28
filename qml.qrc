@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ToothBrush.qml</file>
+        <file>shaders/es3/ads.frag</file>
+        <file>shaders/es3/ads.vert</file>
+        <file>shaders/es3/shadowmap.frag</file>
+        <file>shaders/es3/shadowmap.vert</file>
+        <file>shaders/ads.frag</file>
+        <file>shaders/ads.vert</file>
+        <file>shaders/shadowmap.frag</file>
+        <file>shaders/shadowmap.vert</file>
+        <file>AdsEffect.qml</file>
+        <file>AdsMaterial.qml</file>
+        <file>GroundPlane.qml</file>
+        <file>ShadowMapFrameGraph.qml</file>
+        <file>ShadowMapLight.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
